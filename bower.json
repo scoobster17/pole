@@ -1,0 +1,31 @@
+{
+  "name": "pole",
+  "description": "Voting app where you can create and customise your own poll",
+  "main": "index.js",
+  "authors": [
+    "Phil Gibbins <scoobster17@hotmail.co.uk> (http://www.philgibbins.com)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "pole",
+    "poll",
+    "vote",
+    "polling",
+    "voting",
+    "collaborative",
+    "planning",
+    "choice"
+  ],
+  "homepage": "https://github.com/scoobster17/pole",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.5.7",
+    "reset-css": "^2.0.2011012603"
+  }
+}
